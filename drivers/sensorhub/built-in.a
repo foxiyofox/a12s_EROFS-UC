@@ -1,0 +1,224 @@
+!<thin>
+//                                              4164      `
+comm/shub_comm.o/
+comm/shub_iio.o/
+comm/shub_kfifo_buf.o/
+comm/misc/shub_misc.o/
+comm/misc/shub_batch.o/
+comm/misc/shub_injection.o/
+comm/misc/shub_scontext.o/
+debug/shub_debug.o/
+debug/shub_debug_sysfs.o/
+debug/shub_sensor_dump.o/
+debug/shub_system_checker.o/
+debug/shub_dump.o/
+factory/shub_factory.o/
+factory/accelerometer/accelerometer_factory.o/
+factory/flip_cover_detector/flip_cover_detector_factory.o/
+factory/gyroscope/gyroscope_factory.o/
+factory/gyroscope/gyroscope_icm42605m_factory.o/
+factory/gyroscope/gyroscope_lsm6dsl_factory.o/
+factory/gyroscope/gyroscope_lsm6dsotr_factory.o/
+factory/gyroscope/gyroscope_lsm6dsvtr_factory.o/
+factory/gyroscope/gyroscope_icm42632m_factory.o/
+factory/light/light_factory.o/
+factory/magnetometer/magnetometer_factory.o/
+factory/magnetometer/magnetometer_ak09918c_factory.o/
+factory/magnetometer/magnetometer_mmc5633_factory.o/
+factory/magnetometer/magnetometer_yas539_factory.o/
+factory/magnetometer/magnetometer_mxg4300s_factory.o/
+factory/pressure/pressure_factory.o/
+factory/pressure/pressure_bmp580_factory.o/
+factory/pressure/pressure_lps22hh_factory.o/
+factory/pressure/pressure_lps22df_factory.o/
+factory/pressure/pressure_lps25h_factory.o/
+factory/proximity/proximity_factory.o/
+factory/proximity/proximity_gp2ap110s_factory.o/
+factory/proximity/proximity_stk3x6x_factory.o/
+factory/proximity/proximity_stk3328_factory.o/
+factory/proximity/proximity_tmd4912_factory.o/
+factory/proximity/proximity_stk3391x_factory.o/
+factory/proximity/proximity_stk33512_factory.o/
+factory/proximity/proximity_stk3afx_factory.o/
+others/shub_motor_callback.o/
+others/shub_panel.o/
+others/shub_pogo.o/
+others/shub_aois.o/
+sensor/accelerometer.o/
+sensor/gyroscope.o/
+sensor/gyroscope_uncal.o/
+sensor/magnetometer.o/
+sensor/magnetometer_uncal.o/
+sensor/flip_cover_detector.o/
+sensor/light.o/
+sensor/light_cct.o/
+sensor/light_autobrightness.o/
+sensor/light_seamless.o/
+sensor/led_cover_event.o/
+sensor/pressure.o/
+sensor/scontext.o/
+sensor/step.o/
+sensor/proximity.o/
+sensor/proximity_raw.o/
+sensor/proximity_calibration.o/
+sensor/motion.o/
+sensor/super.o/
+sensor/hub_debugger.o/
+sensor/pocket_mode.o/
+sensor/device_orientation.o/
+sensor/sar_backoff_motion.o/
+sensor/pogo_request_handler.o/
+sensor/aois.o/
+sensor/rotation_vector.o/
+sensor/game_rotation_vector.o/
+sensor/physical_sensor/accelerometer/accelerometer_icm42605m.o/
+sensor/physical_sensor/accelerometer/accelerometer_lsm6dsl.o/
+sensor/physical_sensor/accelerometer/accelerometer_lis2dlc12.o/
+sensor/physical_sensor/accelerometer/accelerometer_lsm6dsotr.o/
+sensor/physical_sensor/accelerometer/accelerometer_lsm6dsvtr.o/
+sensor/physical_sensor/accelerometer/accelerometer_icm42632m.o/
+sensor/physical_sensor/gyroscope/gyroscope_icm42605m.o/
+sensor/physical_sensor/gyroscope/gyroscope_lsm6dsl.o/
+sensor/physical_sensor/gyroscope/gyroscope_lsm6dsotr.o/
+sensor/physical_sensor/gyroscope/gyroscope_lsm6dsvtr.o/
+sensor/physical_sensor/gyroscope/gyroscope_icm42632m.o/
+sensor/physical_sensor/magnetometer/magnetometer_ak09918c.o/
+sensor/physical_sensor/magnetometer/magnetometer_mmc5633.o/
+sensor/physical_sensor/magnetometer/magnetometer_yas539.o/
+sensor/physical_sensor/magnetometer/magnetometer_mxg4300s.o/
+sensor/physical_sensor/proximity/proximity_stk3x6x.o/
+sensor/physical_sensor/proximity/proximity_gp2ap110s.o/
+sensor/physical_sensor/proximity/proximity_stk3328.o/
+sensor/physical_sensor/proximity/proximity_tmd4912.o/
+sensor/physical_sensor/proximity/proximity_stk33512.o/
+sensor/physical_sensor/proximity/proximity_stk3391x.o/
+sensor/physical_sensor/proximity/proximity_stk3afx.o/
+sensor/physical_sensor/light/light_stk33512.o/
+sensor/physical_sensor/pressure/pressure_bmp580.o/
+sensor/physical_sensor/pressure/pressure_lps22hh.o/
+sensor/physical_sensor/pressure/pressure_lps22df.o/
+sensorhub/shub_device.o/
+sensorhub/shub_sysfs.o/
+sensorhub/shub_device_wrapper.o/
+sensorhub/shub_firmware.o/
+sensormanager/shub_sensor_manager.o/
+sensormanager/shub_sensor_sysfs.o/
+sensormanager/shub_sensor.o/
+utility/shub_utility.o/
+utility/shub_wakelock.o/
+utility/shub_dev_core.o/
+utility/shub_wait_event.o/
+utility/shub_file_manager.o/
+vendor/shub_lsi.o/
+utility/sensor_core.o/
+/0              0           0     0     644     163000    `
+/18             0           0     0     644     153272    `
+/35             0           0     0     644     147264    `
+/58             0           0     0     644     6656      `
+/81             0           0     0     644     136016    `
+/105            0           0     0     644     124936    `
+/133           /0           0     0     644     124704    `
+/160            0           0     0     644     153680    `
+/180            0           0     0     644     164664    `
+/206            0           0     0     644     20760     `
+/232            0           0     0     644     1232      `
+/261            0           0     0     644     133856    `
+/280            0           0     0     644     6136      `
+/304            0           0     0     644     153440    `
+/351            0           0     0     644     155600    `
+/410            0           0     0     644     138504    `
+/449            0           0     0     644     145608    `
+/498            0           0     0     644     146712    `
+/545            0           0     0     644     146680    `
+/594            0           0     0     644     146736    `
+/643            0           0     0     644     145608    `
+/692           /0           0     0     644     176048    `
+/723            0           0     0     644     147352    `
+/768            0           0     0     644     150608    `
+/822            0           0     0     644     146480    `
+/875            0           0     0     644     141288    `
+/927            0           0     0     644     150264    `
+/981            0           0     0     644     144544    `
+/1018           0           0     0     644     119120    `
+/1062           0           0     0     644     119288    `
+/1107           0           0     0     644     122080    `
+/1152           0           0     0     644     119144    `
+/1196           0           0     0     644     154760    `
+/1235           0           0     0     644     143584    `
+/1284           0           0     0     644     130272    `
+/1331           0           0     0     644     140168    `
+/1378           0           0     0     644     141368    `
+/1425           0           0     0     644     138960    `
+/1473           0           0     0     644     135568    `
+/1521           0           0     0     644     138808    `
+/1568           0           0     0     644     21752     `
+/1598           0           0     0     644     12024     `
+/1619           0           0     0     644     3800      `
+/1639           0           0     0     644     3792      `
+/1659          /0           0     0     644     144576    `
+/1683           0           0     0     644     146320    `
+/1703           0           0     0     644     122816    `
+/1729           0           0     0     644     151768    `
+/1752           0           0     0     644     124608    `
+/1781           0           0     0     644     142680    `
+/1811           0           0     0     644     159488    `
+/1827           0           0     0     644     126568    `
+/1847           0           0     0     644     143616    `
+/1878           0           0     0     644     124608    `
+/1903           0           0     0     644     120728    `
+/1929           0           0     0     644     141968    `
+/1948           0           0     0     644     146864    `
+/1967           0           0     0     644     123792    `
+/1982           0           0     0     644     152720    `
+/2002          /0           0     0     644     124096    `
+/2026           0           0     0     644     124904    `
+/2058           0           0     0     644     125424    `
+/2075           0           0     0     644     120672    `
+/2091           0           0     0     644     125592    `
+/2114           0           0     0     644     122600    `
+/2136           0           0     0     644     128368    `
+/2165           0           0     0     644     124328    `
+/2194           0           0     0     644     120768    `
+/2225           0           0     0     644     121096    `
+/2240           0           0     0     644     120728    `
+/2266           0           0     0     644     120760    `
+/2297           0           0     0     644     127368    `
+/2361           0           0     0     644     127344    `
+/2423           0           0     0     644     127368    `
+/2487           0           0     0     644     127368    `
+/2551           0           0     0     644     127368    `
+/2615           0           0     0     644     127368    `
+/2679           0           0     0     644     122440    `
+/2735           0           0     0     644     122416    `
+/2789           0           0     0     644     122440    `
+/2845           0           0     0     644     122440    `
+/2901           0           0     0     644     122440    `
+/2957           0           0     0     644     135472    `
+/3018           0           0     0     644     134160    `
+/3078           0           0     0     644     134528    `
+/3137           0           0     0     644     135472    `
+/3198           0           0     0     644     136744    `
+/3252           0           0     0     644     135576    `
+/3308           0           0     0     644     134016    `
+/3362           0           0     0     644     127640    `
+/3416           0           0     0     644     130376    `
+/3471           0           0     0     644     130920    `
+/3526           0           0     0     644     130744    `
+/3580           0           0     0     644     121952    `
+/3627           0           0     0     644     121560    `
+/3678           0           0     0     644     121568    `
+/3730           0           0     0     644     121568    `
+/3782           0           0     0     644     189608    `
+/3807           0           0     0     644     133264    `
+/3831           0           0     0     644     122624    `
+/3864          /0           0     0     644     141888    `
+/3891           0           0     0     644     204656    `
+/3928           0           0     0     644     145880    `
+/3963           0           0     0     644     124280    `
+/3992           0           0     0     644     6304      `
+/4016          /0           0     0     644     115672    `
+/4041          /0           0     0     644     119936    `
+/4066           0           0     0     644     11344     `
+/4093           0           0     0     644     145320    `
+/4122           0           0     0     644     145864    `
+/4141           0           0     0     644     170360    `

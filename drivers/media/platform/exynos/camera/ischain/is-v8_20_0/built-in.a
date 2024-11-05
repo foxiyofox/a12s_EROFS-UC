@@ -1,0 +1,62 @@
+!<thin>
+//                                              534       `
+setup-is.o/
+setup-is-sensor.o/
+is-hw-pwr.o/
+is-hw-chain.o/
+is-hw-dvfs.o/
+is-subdev-3aa.o/
+is-subdev-3ac.o/
+is-subdev-3ap.o/
+is-subdev-3af.o/
+is-subdev-3ag.o/
+is-subdev-isp.o/
+is-subdev-ixc.o/
+is-subdev-ixp.o/
+is-subdev-ixg.o/
+is-subdev-ixt.o/
+is-subdev-ixv.o/
+is-subdev-ixw.o/
+is-subdev-mexc.o/
+is-subdev-orbxc.o/
+is-subdev-mcs.o/
+is-subdev-mcsp.o/
+is-subdev-vra.o/
+is-subdev-paf.o/
+is-subdev-clh.o/
+is-subdev-clxc.o/
+is-subdev-sensor.o/
+is-subdev-sensor_vc0.o/
+is-subdev-sensor_vc1.o/
+is-subdev-sensor_vc2.o/
+is-subdev-sensor_vc3.o/
+/0              0           0     0     644     207872    `
+/12             0           0     0     644     151768    `
+/31             0           0     0     644     329864    `
+/44             0           0     0     644     498768    `
+/59             0           0     0     644     436112    `
+/73            /0           0     0     644     376048    `
+/90            /0           0     0     644     361952    `
+/107           /0           0     0     644     372696    `
+/124           /0           0     0     644     291352    `
+/141           /0           0     0     644     291352    `
+/158           /0           0     0     644     374880    `
+/175           /0           0     0     644     351408    `
+/192           /0           0     0     644     345448    `
+/209           /0           0     0     644     352664    `
+/226           /0           0     0     644     352664    `
+/243           /0           0     0     644     341824    `
+/260           /0           0     0     644     341840    `
+/277            0           0     0     644     291368    `
+/295            0           0     0     644     291376    `
+/314           /0           0     0     644     373168    `
+/331            0           0     0     644     406064    `
+/349           /0           0     0     644     345744    `
+/366           /0           0     0     644     291344    `
+/383           /0           0     0     644     291344    `
+/400            0           0     0     644     291368    `
+/418            0           0     0     644     345888    `
+/438            0           0     0     644     348880    `
+/462            0           0     0     644     348880    `
+/486            0           0     0     644     348880    `
+/510            0           0     0     644     348880    `

@@ -1,0 +1,1 @@
+cmd_fs/incfs/built-in.a :=  rm -f fs/incfs/built-in.a; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD fs/incfs/built-in.a fs/incfs/data_mgmt.o fs/incfs/format.o fs/incfs/integrity.o fs/incfs/main.o fs/incfs/vfs.o

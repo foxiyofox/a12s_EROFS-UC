@@ -1,0 +1,1 @@
+cmd_drivers/sti/abc/built-in.a :=  rm -f drivers/sti/abc/built-in.a; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/sti/abc/built-in.a drivers/sti/abc/abc_common.o drivers/sti/abc/abc_hub_core.o drivers/sti/abc/abc_hub_bootc.o

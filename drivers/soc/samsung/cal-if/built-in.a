@@ -1,0 +1,35 @@
+!<thin>
+//                                              216       `
+cal-if.o/
+pmucal_system.o/
+pmucal_local.o/
+pmucal_cpu.o/
+pmucal_rae.o/
+pmucal_powermode.o/
+pmucal_cp.o/
+pmucal_gnss.o/
+pmucal_shub.o/
+cmucal.o/
+ra.o/
+vclk.o/
+pll_spec.o/
+acpm_dvfs.o/
+fvmap.o/
+exynos3830/cal_data.o/
+
+/0              0           0     0     644     48576     `
+/10            /0           0     0     644     19024     `
+/27             0           0     0     644     17696     `
+/43             0           0     0     644     19856     `
+/57             0           0     0     644     84256     `
+/71             0           0     0     644     12752     `
+/91             0           0     0     644     29264     `
+/104            0           0     0     644     18608     `
+/119            0           0     0     644     15488     `
+/134            0           0     0     644     21880     `
+/144            0           0     0     644     156032    `
+/150            0           0     0     644     53224     `
+/158            0           0     0     644     23072     `
+/170            0           0     0     644     87960     `
+/183            0           0     0     644     195024    `
+/192            0           0     0     644     760816    `

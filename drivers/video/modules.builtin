@@ -1,0 +1,17 @@
+kernel/drivers/video/backlight/lcd.ko
+kernel/drivers/video/backlight/backlight.ko
+kernel/drivers/video/fbdev/core/fb.ko
+kernel/drivers/video/fbdev/core/cfbfillrect.ko
+kernel/drivers/video/fbdev/core/cfbcopyarea.ko
+kernel/drivers/video/fbdev/core/cfbimgblt.ko
+kernel/drivers/video/fbdev/exynos/panel/sysfs.ko
+kernel/drivers/video/fbdev/exynos/panel/panel_i2c.ko
+kernel/drivers/video/fbdev/exynos/panel/nt36525b_ctc/nt36525b_ctc.ko
+kernel/drivers/video/fbdev/exynos/panel/ili9882q_boe/ili9882q_boe.ko
+kernel/drivers/video/fbdev/exynos/panel/nt36525b_sharp/nt36525b_sharp.ko
+kernel/drivers/video/fbdev/exynos/panel/nt36525b_dtc/nt36525b_dtc.ko
+kernel/drivers/video/fbdev/exynos/panel/td4150_boe/td4150_boe.ko
+kernel/drivers/video/fbdev/exynos/panel/td4375_boe/td4375_boe.ko
+kernel/drivers/video/fbdev/exynos/panel/ili7807s/ili7807s.ko
+kernel/drivers/video/fbdev/exynos/panel/td4160_boe/td4160_boe.ko
+kernel/drivers/video/fbdev/exynos/panel/decon_void_regulator.ko

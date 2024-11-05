@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/sec_thermistor/built-in.a :=  rm -f drivers/hwmon/sec_thermistor/built-in.a; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/hwmon/sec_thermistor/built-in.a drivers/hwmon/sec_thermistor/sec_thermistor.o

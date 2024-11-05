@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/sm/sm5714/built-in.a :=  rm -f drivers/usb/typec/sm/sm5714/built-in.a; ./toolchain/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/usb/typec/sm/sm5714/built-in.a drivers/usb/typec/sm/sm5714/sm5714_typec.o drivers/usb/typec/sm/sm5714/sm5714_policy.o drivers/usb/typec/sm/sm5714/sm5714_pd.o

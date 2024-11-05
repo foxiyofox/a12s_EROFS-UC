@@ -1,0 +1,56 @@
+!<thin>
+//                                              496       `
+usbstring.o/
+config.o/
+epautoconf.o/
+composite.o/
+functions.o/
+configfs.o/
+u_f.o/
+udc/core.o/
+udc/trace.o/
+function/f_acm.o/
+function/f_uts.o/
+function/u_serial.o/
+function/u_ether.o/
+function/f_rndis.o/
+function/rndis.o/
+function/f_mass_storage.o/
+function/storage_common.o/
+function/f_fs.o/
+function/f_midi.o/
+function/f_dm.o/
+function/f_dm1.o/
+function/f_mtp_samsung.o/
+function/f_ptp.o/
+function/f_audio_source.o/
+function/f_accessory.o/
+function/f_conn_gadget.o/
+function/f_ss_mon_gadget.o/
+/0              0           0     0     644     7136      `
+/13             0           0     0     644     164264    `
+/23             0           0     0     644     136880    `
+/37             0           0     0     644     309000    `
+/50             0           0     0     644     160768    `
+/63             0           0     0     644     361432    `
+/75             0           0     0     644     12240     `
+/82             0           0     0     644     390504    `
+/94             0           0     0     644     266032    `
+/107            0           0     0     644     214848    `
+/125            0           0     0     644     186024    `
+/143            0           0     0     644     261320    `
+/164            0           0     0     644     442584    `
+/184            0           0     0     644     331976    `
+/204            0           0     0     644     322072    `
+/222            0           0     0     644     438184    `
+/249            0           0     0     644     217888    `
+/276            0           0     0     644     521360    `
+/293            0           0     0     644     263144    `
+/312            0           0     0     644     179456    `
+/329            0           0     0     644     179472    `
+/347           /0           0     0     644     398704    `
+/373            0           0     0     644     149112    `
+/391            0           0     0     644     247408    `
+/418            0           0     0     644     332912    `
+/442           /0           0     0     644     339936    `
+/468            0           0     0     644     182544    `

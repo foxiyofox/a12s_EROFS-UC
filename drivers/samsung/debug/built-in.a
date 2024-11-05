@@ -1,0 +1,36 @@
+!<thin>
+//                                              344       `
+sec_debug_base.o/
+sec_dump_sink.o/
+sec_debug_test.o/
+sec_debug_ksym.o/
+sec_debug_mode.o/
+sec_debug_memtab.o/
+sec_debug_param.o/
+sec_debug_dprm.o/
+sec_debug_hist.o/
+sec_debug_reset_reason.o/
+sec_debug_extra_info.o/
+sec_debug_hw_param.o/
+sec_debug_auto_comment.o/
+sec_debug_last_kmsg.o/
+sec_debug_wdd_info.o/
+sec_debug_freq.o/
+sec_debug_dtask.o/
+/0              0           0     0     644     239208    `
+/18            /0           0     0     644     160024    `
+/35             0           0     0     644     220776    `
+/53             0           0     0     644     7680      `
+/71             0           0     0     644     6560      `
+/89             0           0     0     644     13312     `
+/109            0           0     0     644     191208    `
+/128            0           0     0     644     76000     `
+/146            0           0     0     644     102648    `
+/164            0           0     0     644     177184    `
+/190            0           0     0     644     205384    `
+/214            0           0     0     644     108344    `
+/236            0           0     0     644     113864    `
+/262            0           0     0     644     104912    `
+/285            0           0     0     644     107048    `
+/307            0           0     0     644     178280    `
+/325            0           0     0     644     49832     `

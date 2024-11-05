@@ -1,0 +1,84 @@
+!<thin>
+//                                              868       `
+scsc/scsc_log_collector.o/
+scsc/scsc_log_collector_proc.o/
+scsc/scsc_log_collector_mmap.o/
+scsc/scsc_logring_main.o/
+scsc/scsc_logring_ring.o/
+scsc/scsc_logring_debugfs.o/
+scsc/platform_mif_module.o/
+scsc/platform_mif_3830.o/
+scsc/mxlog_transport.o/
+scsc/fw_panic_record.o/
+scsc/panicmon.o/
+scsc/suspendmon.o/
+scsc/mxlog.o/
+scsc/mxproc.o/
+scsc/scsc_service.o/
+scsc/scsc_mx_module.o/
+scsc/scsc_mx_impl.o/
+scsc/mxman.o/
+scsc/miframman.o/
+scsc/mifmboxman.o/
+scsc/mifproc.o/
+scsc/mifintrbit.o/
+scsc/fwhdr.o/
+scsc/fwimage.o/
+scsc/cpacket_buffer.o/
+scsc/mifstream.o/
+scsc/mxmgmt_transport.o/
+scsc/gdb_transport.o/
+scsc/scsc_lerna.o/
+scsc/mxsyserr.o/
+scsc/mxfwconfig.o/
+scsc/mx140_file.o/
+scsc/mxlogger.o/
+scsc/scsc_wlbtd.o/
+scsc/client_test.o/
+scsc/mx_mmap.o/
+scsc/mx250_fm.o/
+scsc/mx250_fm_test.o/
+scsc_bt/scsc_bt_module.o/
+scsc_bt/scsc_shm.o/
+scsc_bt/scsc_avdtp_detect.o/
+/0              0           0     0     644     174152    `
+/27             0           0     0     644     105296    `
+/59             0           0     0     644     128400    `
+/91             0           0     0     644     199264    `
+/117            0           0     0     644     104968    `
+/143            0           0     0     644     202928    `
+/172            0           0     0     644     163920    `
+/200            0           0     0     644     310184    `
+/226            0           0     0     644     100824    `
+/250            0           0     0     644     25576     `
+/274            0           0     0     644     43592     `
+/291            0           0     0     644     44816     `
+/310            0           0     0     644     64568     `
+/324            0           0     0     644     236704    `
+/339            0           0     0     644     228672    `
+/360            0           0     0     644     205008    `
+/383            0           0     0     644     210824    `
+/404            0           0     0     644     404000    `
+/418            0           0     0     644     109080    `
+/436            0           0     0     644     45096     `
+/455            0           0     0     644     148216    `
+/471            0           0     0     644     56680     `
+/490            0           0     0     644     9288      `
+/504            0           0     0     644     11040     `
+/520            0           0     0     644     67624     `
+/543            0           0     0     644     23088     `
+/561            0           0     0     644     99264     `
+/586           /0           0     0     644     75096     `
+/608            0           0     0     644     143352    `
+/627            0           0     0     644     56904     `
+/644            0           0     0     644     56528     `
+/663            0           0     0     644     181040    `
+/682            0           0     0     644     168280    `
+/699            0           0     0     644     265288    `
+/718            0           0     0     644     166248    `
+/738            0           0     0     644     191368    `
+/754            0           0     0     644     48440     `
+/771           /0           0     0     644     125576    `
+/793            0           0     0     644     283168    `
+/819            0           0     0     644     245368    `
+/839            0           0     0     644     56432     `
